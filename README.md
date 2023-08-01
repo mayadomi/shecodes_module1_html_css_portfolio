@@ -1,4 +1,4 @@
-# Portfolio Tutorial
+# She Codes Plus - Module 1 - HTML/CSS Portfolio Tutorial
 
 Completing the HTML/CSS module of the She Codes Plus progam, learning how to build a website from scratch.
 
